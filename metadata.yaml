@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33966'
     url: http://www.gutenberg.org/2009/agents/33966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29530#Achtundvierzig-Briefe-von-Johann-Gottlieb-Fichte-und-seinen-Verwandten
 gutenberg_bookshelf:
 - DE Prosa
 - Philosophy
